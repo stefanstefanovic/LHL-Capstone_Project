@@ -1,2 +1,7 @@
 .DS_Store
 data/steam_data_VA_raw.csv
+data/steam_description_data.csv
+data/steam_media_data.csv
+.gitignore
+data/steam_website_data.csv
+data/steam_system_req_data.csv
